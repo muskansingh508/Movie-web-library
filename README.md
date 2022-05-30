@@ -21,6 +21,12 @@ The app is ready to be deployed!
 ## Features
 
 *User Authentication: Login and Register. In register basic details like name, email, phone number, etc is taken from user and is stored in local storage. In login user enter email and password to enter home screen.
+
+
 *watchlist: list of all movies to watch is stored and displayed.
+
+
 *watched: list of watched movies is stored and displayed.
+
+
 *add:search bar is enabled and we are fetching data from OMDB api and is displayed here.
